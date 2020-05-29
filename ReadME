@@ -1,3 +1,6 @@
+
+    ##Documentation Provided by Metropolia UAS Finland.
+
 ##########################################################
 #            Take Virtual machine Snapshots              #
 #                                                        #
@@ -199,3 +202,8 @@ foreach ($VM in $VMs) {
 # WGdzTNeaqMXlKgsg7WIwmrzGM8rjX+f9HbO7lAJdcRqEjL1jzweWCSMXVmZrcI8d
 # uay68VafENKy
 # SIG # End signature block
+
+
+
+
+
